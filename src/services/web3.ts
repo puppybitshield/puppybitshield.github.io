@@ -2,7 +2,7 @@ import Portis from "@portis/web3";
 import Web3 from "web3";
 
 export const portis = new Portis(
-  "df2102d7-74a4-48fa-a6be-dd03848202d1",
+  "2a41885b-a611-453d-befc-91daa17484a7",
   "ropsten",
   { gasRelay: true }
 );
